@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G3EYHZvZZcIx2nlQRlNSojYDoYqGyV+zhcdjYjgnIP8=",
+  "Source": "FileSystem",
+  "BasePath": "_content/FileSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
